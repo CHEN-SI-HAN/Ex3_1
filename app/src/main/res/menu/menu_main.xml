@@ -1,0 +1,34 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MainActivity">
+    <item
+        android:id="@+id/menuShape"
+        android:title="@string/menu_shape">
+        <menu>
+            <item
+                android:id="@+id/shape_circle"
+                android:title="@string/shape_circle" />
+            <item
+                android:id="@+id/shape_square"
+                android:title="@string/shape_square" />
+        </menu>
+    </item>
+
+    <item
+        android:id="@+id/menuColor"
+        android:title="@string/menu_color">
+        <menu>
+            <item
+                android:id="@+id/red"
+                android:title="@string/color_red" />
+            <item
+                android:id="@+id/blue"
+                android:title="@string/color_blue" />
+        </menu>
+    </item>
+
+    <item
+        android:id="@+id/menuExit"
+        android:title="@string/exit" />
+
+</menu>

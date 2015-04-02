@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Ex3_1</string>
+    <string name="menu_shape">形狀</string>
+    <string name="shape_circle">圓形</string>
+    <string name="shape_square">正方形</string>
+    <string name="menu_color">顏色</string>
+    <string name="color_red">紅色</string>
+    <string name="color_blue">藍色</string>
+    <string name="exit">結束</string>
+</resources>
